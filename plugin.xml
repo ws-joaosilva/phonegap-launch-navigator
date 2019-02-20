@@ -38,7 +38,7 @@
 
     <source-file src="src/android/LaunchNavigator.java" target-dir="src/uk/co/workingedge/phonegap/plugin" />
 
-    <framework src="com.squareup.okhttp3:okhttp:3+" />
+    <framework src="com.squareup.okhttp3:okhttp:3.10.0" />
   </platform>
 
   <!-- ios -->
