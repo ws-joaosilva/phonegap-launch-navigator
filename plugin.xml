@@ -47,8 +47,7 @@
       <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     </config-file>
 
-    <preference name="OKHTTP_VERSION" default="3.+" />
-    <framework src="com.squareup.okhttp3:okhttp:$OKHTTP_VERSION" />
+    <framework src="com.squareup.okhttp3:okhttp:3.10.0" />
   </platform>
 
   <!-- ios -->
